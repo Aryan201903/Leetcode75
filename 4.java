@@ -1,3 +1,4 @@
+// Can place flowers
 class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int count = 0;
