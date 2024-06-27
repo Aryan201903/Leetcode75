@@ -1,3 +1,4 @@
+// Container with most water
 class Solution {
     public int maxArea(int[] height) {
         int left = 0;
