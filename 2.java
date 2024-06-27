@@ -1,3 +1,4 @@
+// Greatest common divisor of strings
 class Solution {
     public String gcdOfStrings(String str1, String str2) {
        if (!str1.concat(str2).equals(str2.concat(str1)))
