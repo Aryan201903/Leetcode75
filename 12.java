@@ -1,4 +1,5 @@
-class Solution {
+// Max Number of K-Sum Pairs
+Solvedclass Solution {
     public int maxOperations(int[] nums, int k) {
         Arrays.sort(nums);
         int count = 0;
