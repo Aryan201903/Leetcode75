@@ -1,3 +1,4 @@
+// Longest Subarray of 1's After Deleting One Element
 class Solution {
     public int longestSubarray(int[] nums) {
         int curr = 0;
