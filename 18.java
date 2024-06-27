@@ -1,3 +1,4 @@
+// Find pivot index
 class Solution {
     public int pivotIndex(int[] nums) {
         if (nums.length == 0) {
