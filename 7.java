@@ -1,4 +1,4 @@
-// Reverse words in a string
+// Product of array except self
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
